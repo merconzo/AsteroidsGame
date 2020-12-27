@@ -1,0 +1,23 @@
+{
+    "folders": [
+		{
+			"name": "ex10",
+			"uri": "vsls:/"
+		}
+	],
+    "settings": {
+        "files.hotExit": "off",
+        "vsliveshare.join.reload.workspaceId": "3D8FBAF9F3554BDEB2385A93CFB61FFE2669",
+        "vsliveshare.join.reload.workspaceFolder": "C:\\Users\\meyra\\AppData\\Local\\Temp\\vsliveshare\\tmp-3D8FBAF9F3554BDEB2385A93CFB61FFE2669",
+        "vsliveshare.join.correlationId": "",
+        "extensions.ignoreRecommendations": true,
+        "files.autoSave": "off",
+        "typescript.tsc.autoDetect": "off",
+        "jake.autoDetect": "off",
+        "grunt.autoDetect": "off",
+        "gulp.autoDetect": "off",
+        "npm.autoDetect": "off",
+        "debug.allowBreakpointsEverywhere": true,
+        "html.autoClosingTags": false
+    }
+}
