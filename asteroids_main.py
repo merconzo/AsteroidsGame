@@ -58,6 +58,9 @@ class GameRunner:
                                        self.__screen_min_y) % delta_y
         return new_x, new_y
 
+    def blah(self):
+        pass
+
 
 def main(amount):
     runner = GameRunner(amount)
